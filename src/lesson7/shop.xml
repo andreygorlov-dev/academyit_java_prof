@@ -1,0 +1,19 @@
+<?xml version = "1.1" encoding = "UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href = "test.xsl"?>
+<shop>
+    <car>
+        <marka>Audi</marka>
+        <model>A6</model>
+        <price>100</price>
+    </car>
+    <car>
+        <marka>BMV</marka>
+        <model>X6</model>
+        <price>1500</price>
+    </car>
+    <car>
+        <marka>VW</marka>
+        <model>SC</model>
+        <price>2222</price>
+    </car>
+</shop>
