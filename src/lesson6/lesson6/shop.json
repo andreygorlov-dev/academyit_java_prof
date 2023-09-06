@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "title": "VipCar",
+  "cars": [
+    {
+      "name": "Audi",
+      "price": 1000
+    },
+    {
+      "name": "BMW",
+      "price": 1020
+    },
+    {
+      "name": "VW",
+      "price": 2000
+    }
+  ],
+  "contact": {
+    "phone": "+7999999999",
+    "adress": "Москва Дом 4 Кв23"
+  }
+}

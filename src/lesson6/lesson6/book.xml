@@ -1,0 +1,30 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<books topick = "космос">
+    <book>
+        <id>1</id>
+        <title>Космос</title>
+        <price>123.2</price>
+        <authors>
+            <author>Иванов2</author>
+        </authors>
+    </book>
+    <book>
+        <id>2</id>
+        <title>Космос2</title>
+        <price>125.2</price>
+        <authors>
+            <author>Иванов</author>
+            <author>Петров</author>
+        </authors>
+    </book>
+    <book>
+        <id>3</id>
+        <title>Космос3</title>
+        <price>124.2</price>
+        <authors>
+            <author>Иванов3</author>
+            <author>Петров3</author>
+            <author>Сидоров3</author>
+        </authors>
+    </book>
+</books>

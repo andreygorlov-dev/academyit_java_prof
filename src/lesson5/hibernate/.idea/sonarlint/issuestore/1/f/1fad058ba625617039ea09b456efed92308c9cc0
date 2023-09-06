@@ -1,0 +1,12 @@
+
+Q
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÇóÃ8üŠ¿‰¦1
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ú´å—
+N	java:S106"9Replace this use of System.out or System.err by a logger.(×èÅí
+i
+java:S1128"MRemove this unused import 'com.sun.org.apache.xpath.internal.operations.Mod'.(ÇóÃ8îÉ¿‰¦1
+X
+java:S1128"6Remove this unused import 'org.hibernate.query.Query'.(¤— ´ûÿÿÿÿ8îÉ¿‰¦1
+K
+java:S1128
+".Remove this unused import 'java.util.Objects'.(¼¸õ›8ïÉ¿‰¦1

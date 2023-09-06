@@ -1,0 +1,6 @@
+<config>
+    <attr name = "DRIVER">com.mysql.cj.jdbc.Driver</attr>
+    <attr name = "URL_DB">jdbc:mysql://localhost:3306/bd_java_prof</attr>
+    <attr name = "LOGIN">root</attr>
+    <attr name = "PASSWORD">root</attr>
+</config>
